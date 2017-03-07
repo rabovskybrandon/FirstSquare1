@@ -1,7 +1,8 @@
 function setup() {
-createCanvas(900,500)
+createCanvas(900,500);
 }
 
 function draw() {
-  background(mouseX,MouseY,255)
-rect(200,400,20,100)}
+  background(mouseX,mouseY,255);
+rect(200,400,20,100);
+}
